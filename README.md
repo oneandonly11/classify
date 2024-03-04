@@ -26,3 +26,6 @@
 
 
 ## Here's what I did in project 2:
+
+### Start at 2024.2.28
+### End at 2024.3.3
